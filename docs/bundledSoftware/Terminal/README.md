@@ -1,7 +1,7 @@
 Terminal
 ========
 
-######_Terminal_ allows you to access your system's shell and execute commands.
+>_Terminal_ allows you to access your system's shell and execute commands.
 
 <hr>
 
