@@ -39,3 +39,14 @@ Under the `Edit` menu one will find options related to the text aspect of the Te
 5. `Find...` (`ALT`+`F`) will search for an occurence of a given word.
 6. `Find previous` (`SHIFT`+`ALT`+`G`) will go to the previous occurence of the word being searched for.
 7. `Find next` (`ALT`+`G`) will go to the next occurence of the word being searched for.
+
+---
+
+Under the `Settings` menu one will find options related to the settings of the Terminal.
+
+![Settings menu](img/settingsTab.png)
+<br>
+
+1. `Window title...` will set the current instance's window title.
+2. `Window size` will list various resolutions for the terminal. 
+![windowSize](img/windowSize.png)
