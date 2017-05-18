@@ -14,9 +14,9 @@ Below is a list of all the current documents we have to Haiku.
 Below is a list of documents related to all the software that comes pre-installed with Haiku.
 
 1. [**SoftwareUpdater**](docs/bundledSoftware/SoftwareUpdater)
-	Graphical interface to update your Haiku system.
+	* Graphical interface to update your Haiku system.
 2. [**Terminal**](docs/bundledSoftware/Terminal)
-    Shell access
+	* Shell access
 
 ## License
 
