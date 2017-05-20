@@ -24,7 +24,7 @@ Below is a list of documents related to third-party software that runs on Haiku.
 
 Useful tools for getting domain-specific tasks done.
 
-1. [**TinyTim**](docs/3rdPartySoftware/Utilities/TinyTim)
+1. [**TinyTim**](docs/3rdParty/Utilities/TinyTim/README.md)
 	* Graphical front-end for tinyurl.com.
 
 
