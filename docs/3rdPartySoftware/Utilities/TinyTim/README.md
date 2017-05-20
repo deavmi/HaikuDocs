@@ -1,9 +1,9 @@
 TinyTim
-=========
+=======
 
-## Purpose
+>_TinyTim_ is a small utility that provides a graphical front-end to the [tinyurl](http://tinyurl.com) URL-shortening service.
 
-TinyTim is a small utility that provides a graphical front-end to the [tinyurl](http://tinyurl.com) URL-shortening service.
+<hr>
 
 ## Installation
 
