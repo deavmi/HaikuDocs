@@ -3,7 +3,7 @@ SoftwareUpdater
 
 >_SoftwareUpdater_ is a program that checks your system for updated packages and allows you to install them at the click of one button.
 
-<hr>
+## Usage
 
 When you launch SoftwareUpdater it will check your repositories for updated packages:
 
