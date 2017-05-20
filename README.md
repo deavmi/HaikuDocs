@@ -1,8 +1,6 @@
 HaikuDocs
 =========
 
-## What is the point of the project?
-
 The current documentation for the Haiku User Guide is not easy to edit at all so I thought to myself, "Why not just write new and up-to-date documentation in Markdown and publish it to a git repository so that people can finally easily contribute to it?"
 
 ## Table of Contents
