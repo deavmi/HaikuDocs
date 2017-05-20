@@ -23,4 +23,4 @@ Enter the URL in the entry field and click on the button named `Submit this URL 
 
 ![tinytim1](img/tinytim2.png "The TinyTim window after use")
 
-PLEASE NOTE: The tinyurl API does not handle the _https_ protocol. Just change the URL to read _http_. Your browser will know to change it back when you use the shortened URL.
+**Please Note**: The tinyurl API does not handle the _https_ protocol. Just change the URL to read _http_. Your browser will know to change it back when you use the shortened URL.
