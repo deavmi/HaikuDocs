@@ -3,7 +3,7 @@ HaikuDocs
 
 ## What is the point of the project?
 
-The current documentation for the Haiku User Guide is not easy to edit at all so I thought to myself, "Why not just write a new and up-to-date documentation in Markdown and publish it to a git repository so that people can finally easily contribute to it?"
+The current documentation for the Haiku User Guide is not easy to edit at all so I thought to myself, "Why not just write new and up-to-date documentation in Markdown and publish it to a git repository so that people can finally easily contribute to it?"
 
 ## Table of Contents
 
@@ -20,7 +20,12 @@ Below is a list of documents related to all the software that comes pre-installe
 
 ### Third-party software
 
+Below is a list of documents related to third-party software that runs on Haiku.
+
 #### Utilities
+
+Useful tools for getting domain-specific tasks done.
+
 1. [**TinyTim**](docs/3rdPartySoftware/Utilities/TinyTim)
 	* Graphical front-end for tinyurl.com.
 
