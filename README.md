@@ -1,7 +1,7 @@
 HaikuDocs
 =========
 
-The current documentation for the Haiku User Guide is not easy to edit at all so I thought to myself, "Why not just write new and up-to-date documentation in Markdown and publish it to a git repository so that people can finally easily contribute to it?" So I did just that and look where we are now.
+The current documentation for the Haiku User Guide is not easy to edit at all so I thought to myself, _"Why not just write new and up-to-date documentation in Markdown and publish it to a git repository so that people can finally easily contribute to it?"_ So I did just that and look where we are now.
 
 ## Table of Contents
 
