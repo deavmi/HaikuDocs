@@ -17,8 +17,6 @@ This is step 2
 
 ![image]()
 
-<hr>
-
 ## Usage
 
 Here is the main window that allows you to:
