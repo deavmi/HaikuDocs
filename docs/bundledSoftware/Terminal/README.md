@@ -3,7 +3,7 @@ Terminal
 
 >_Terminal_ allows you to access your system's shell and execute commands.
 
-<hr>
+## Usage
 
 When you launch Terminal you will be shown a window with a shell in it where you can type commands and hit enter to execute them. The shell used is, by default, **bash**.
 
