@@ -15,7 +15,7 @@ Select TinyTim from the Deskbar, or in Terminal type
 
     tinytim
 
-(in lowercase). The program window will appear.
+The program window will appear.
 
 ![tinytim1](img/tinytim1.png "The TinyTim window")
 
