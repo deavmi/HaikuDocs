@@ -15,12 +15,16 @@ Select TinyTim from the Deskbar, or in Terminal type
 
     tinytim
 
-The program window will appear.
+The program window will appear. Enter the URL in the entry field and click on the button named `Submit this URL to tinyurl.com`.
 
 ![tinytim1](img/tinytim1.png "The TinyTim window")
 
-Enter the URL in the entry field and click on the button named `Submit this URL to tinyurl.com`. After a brief interval, the shortend URL will be displayed below the button. You can now click the button named `Copy to clipboard` to copy the short URL to the Haiku system clipboard.
+---
+
+After a brief interval, the shortend URL will be displayed below the button. You can now click the button named `Copy to clipboard` to copy the short URL to the Haiku system clipboard.
 
 ![tinytim1](img/tinytim2.png "The TinyTim window after use")
+
+---
 
 **Please Note**: The tinyurl API does not handle the _https_ protocol. Just change the URL to read _http_. Your browser will know to change it back when you use the shortened URL.
