@@ -17,13 +17,13 @@ Select TinyTim from the Deskbar, or in Terminal type
 
 The program window will appear. Enter the URL in the entry field and click on the button named `Submit this URL to tinyurl.com`.
 
-![tinytim1](img/tinytim1.png "The TinyTim window")
+![The TinyTim window](img/tinytim1.png "The TinyTim window")
 
 ---
 
 After a brief interval, the shortend URL will be displayed below the button. You can now click the button named `Copy to clipboard` to copy the short URL to the Haiku system clipboard.
 
-![tinytim1](img/tinytim2.png "The TinyTim window after use")
+![The TinyTim window after use](img/tinytim2.png "The TinyTim window after use")
 
 ---
 
