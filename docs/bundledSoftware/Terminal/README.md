@@ -7,13 +7,13 @@ Terminal
 
 When you launch Terminal you will be shown a window with a shell in it where you can type commands and hit enter to execute them. The shell used is, by default, **bash**.
 
-![Console/Shell](img/console.png)
+![Console/Shell](https://upload.wikimedia.org/wikipedia/commons/7/78/Haiku_OS%27s_Terminal_emulator.png)
 
 ---
 
 Under the `Terminal` menu one will find options related to the Terminal application itself.
 
-![Terminal menu](img/terminalTab.png)
+![Terminal menu](https://upload.wikimedia.org/wikipedia/commons/f/f1/Haiku_OS%27s_Terminal_Emulator%27s_Terminal_Tab.png)
 <br>
 
 1. `Switch Terminals` (`ALT`+`TAB`) allows one to switch between instances of the Terminal application.
@@ -29,7 +29,7 @@ Under the `Terminal` menu one will find options related to the Terminal applicat
 
 Under the `Edit` menu one will find options related to the text aspect of the Terminal.
 
-![Edit menu](img/editTab.png)
+![Edit menu](https://upload.wikimedia.org/wikipedia/commons/e/e4/Haiku_OS%27s_Terminal_Emulator%27s_Edit_Tab.png)
 <br>
 
 1. `Copy` (`ALT`+`C`) will copy the selected text to the clipboard.
@@ -44,9 +44,9 @@ Under the `Edit` menu one will find options related to the text aspect of the Te
 
 Under the `Settings` menu one will find options related to the settings of the Terminal.
 
-![Settings menu](img/settingsTab.png)
+![Settings menu](https://upload.wikimedia.org/wikipedia/commons/a/a6/Haiku_OS%27s_Terminal_Emulator%27s_Settings_Tab.png)
 <br>
 
 1. `Window title...` will set the current instance's window title.
 2. `Window size` will list various resolutions for the terminal. 
-![windowSize](img/windowSize.png)
+![windowSize](https://upload.wikimedia.org/wikipedia/commons/7/78/Haiku_OS%27s_Terminal_Emulator%27s_Window_Size_Setting.png)
