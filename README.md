@@ -36,7 +36,7 @@ Useful tools for getting domain-specific tasks done.
 2. [**TinyTim**](docs/3rdParty/Utilities/TinyTim/README.md)
 	* Graphical front-end for tinyurl.com.
 
-## License
+## License (applies to images too)
 
 Creative Commons Attribution-ShareAlike 4.0 International
 
