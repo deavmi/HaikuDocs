@@ -20,14 +20,23 @@ Below is a list of documents related to all the software that comes pre-installe
 
 Below is a list of documents related to third-party software that runs on Haiku.
 
+#### Productivity
+
+Useful applications for work and school
+
+1. [**Trope**](docs/3rdParty/Productivity/Trope/README.md)
+	* A text editor.
+
 #### Utilities
 
 Useful tools for getting domain-specific tasks done.
 
-1. [**TinyTim**](docs/3rdParty/Utilities/TinyTim/README.md)
+1. [**FuzzyTime**](docs/3rdParty/Utilities/Fuzzytime/README.md)
+	* Desktop applet that displays the time and date in a deliberately 'fuzzy', human-friendly way.
+2. [**TinyTim**](docs/3rdParty/Utilities/TinyTim/README.md)
 	* Graphical front-end for tinyurl.com.
-
 
 ## License
 
 Creative Commons Attribution-ShareAlike 4.0 International
+
